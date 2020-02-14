@@ -1,0 +1,13 @@
+D:\adel2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+D:\adel2\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csprojAssemblyReference.cache
+D:\adel2\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+D:\adel2\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+D:\adel2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+D:\adel2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+D:\adel2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+D:\adel2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+D:\adel2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+D:\adel2\calculator\calculator\bin\Debug\netcoreapp3.1\NCalc.dll
+D:\adel2\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CopyComplete
+D:\adel2\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+D:\adel2\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
